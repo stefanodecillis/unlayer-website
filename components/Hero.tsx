@@ -52,13 +52,13 @@ export default function Hero() {
             <div className="relative">
               {/* Glow behind surfboard */}
               <div className="absolute inset-0 bg-brand-lime/30 blur-3xl rounded-full scale-75" />
-              <Image
-                src="/assets/Big Board-1.png"
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img
+                src="/assets/Big-Board.svg"
                 alt="Unlayer surfboard representing seamless capital market access"
                 width={400}
                 height={500}
                 className="relative h-auto w-full max-w-xs object-contain lg:max-w-sm drop-shadow-2xl"
-                priority
               />
             </div>
           </div>
