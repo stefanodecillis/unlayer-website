@@ -39,7 +39,7 @@ export default function Header() {
             </span>
           </a>
           <a
-            href="mailto:info@unlayer.xyz"
+            href="mailto:partners@unlayer.xyz"
             className="rounded-full bg-brand-lime px-6 py-2.5 text-sm font-semibold text-brand-dark transition-all hover:bg-brand-lime/80 hover:shadow-md"
           >
             Get in Touch

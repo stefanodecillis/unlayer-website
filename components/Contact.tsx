@@ -18,7 +18,7 @@ export default function Contact() {
 
         <div className="mt-10">
           <a
-            href="mailto:info@unlayer.xyz"
+            href="mailto:partners@unlayer.xyz"
             className="group inline-flex items-center justify-center rounded-full bg-brand-dark px-10 py-5 text-lg font-semibold text-white transition-all hover:bg-brand-dark/90 hover:shadow-2xl hover:scale-105 glow-lime"
           >
             <svg
@@ -34,7 +34,7 @@ export default function Contact() {
                 d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"
               />
             </svg>
-            info@unlayer.xyz
+            partners@unlayer.xyz
             <svg
               className="ml-3 h-5 w-5 transition-transform group-hover:translate-x-1"
               fill="none"

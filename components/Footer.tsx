@@ -20,10 +20,10 @@ export default function Footer() {
           </div>
           <div className="flex items-center gap-4">
             <a
-              href="mailto:info@unlayer.xyz"
+              href="mailto:partners@unlayer.xyz"
               className="text-sm text-white/50 hover:text-brand-lime transition-colors"
             >
-              info@unlayer.xyz
+              partners@unlayer.xyz
             </a>
           </div>
         </div>
